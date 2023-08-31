@@ -369,6 +369,7 @@ RECENT
 #recent {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .book__price--modified {
